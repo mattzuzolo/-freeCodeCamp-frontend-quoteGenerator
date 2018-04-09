@@ -1,4 +1,4 @@
-# -freeCodeCamp-frontend-quoteGenerator
+# freeCodeCamp-frontend-quoteGenerator
 This page will generate a random quote from The Simpsons.
 
 Quotes obtained by using this API: https://thesimpsonsquoteapi.glitch.me/
