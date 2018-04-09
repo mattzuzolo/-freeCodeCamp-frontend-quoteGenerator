@@ -1,0 +1,48 @@
+body {
+  background-color: #FFD90F;
+}
+
+.quote-container {
+
+  background-color:white;
+  max-width: 50%;
+  margin: 0 auto;
+  border-radius: 05px;
+  margin-top:30px;
+
+}
+
+.quote-content {
+  padding:20px;
+  padding-bottom:5px;
+
+}
+
+#quote-text {
+
+  text-align:center;
+  font-size:36px;
+}
+
+#quote-source {
+  text-align:right;
+  font-size:28px;
+  font-style:italic;
+}
+
+.bottom-text {
+  font-size: 40px;
+  padding-left:20px;
+}
+
+.bottom-text span {
+  display:block;
+  float:right;
+  font-size:20px;
+  padding-right:20px;
+}
+
+.button-new {
+  text-align:center;
+  padding-bottom: 20px;
+}
